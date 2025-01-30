@@ -2,7 +2,6 @@
 <h3 align="center">A passionate fullstack developer from Sri lanka.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yukthijeewantha&label=Profile%20views&color=0e75b6&style=flat" alt="yukthijeewantha" /> </p>
----
 
 - 📫 How to reach me **yukthijeewantha@gmail.com**
 
