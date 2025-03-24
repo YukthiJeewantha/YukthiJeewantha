@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yukthi Jeewantha</h1>
-<h3 align="center">I'm Computer Science second-year undergraduate student at university. This is my GitHub profile, Welcome!</h3>
+<h3 align="center">I'm Computer Science second-year undergraduate student at university of Westminster. This is my GitHub profile, Welcome!</h3>
 
 ---
 
